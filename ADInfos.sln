@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADInfosService", "ADInfos\ADInfosService.csproj", "{6DCFD6B6-ABF0-42FB-96C0-1A2624EE9234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmdlet", "cmdlet\cmdlet.csproj", "{CDA1D597-63FD-446B-AFE6-EA6CD036E375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCFD6B6-ABF0-42FB-96C0-1A2624EE9234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCFD6B6-ABF0-42FB-96C0-1A2624EE9234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCFD6B6-ABF0-42FB-96C0-1A2624EE9234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCFD6B6-ABF0-42FB-96C0-1A2624EE9234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C966030D-0D1A-4832-81D6-CEE7BFBE4E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C966030D-0D1A-4832-81D6-CEE7BFBE4E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C966030D-0D1A-4832-81D6-CEE7BFBE4E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C966030D-0D1A-4832-81D6-CEE7BFBE4E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA1D597-63FD-446B-AFE6-EA6CD036E375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA1D597-63FD-446B-AFE6-EA6CD036E375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA1D597-63FD-446B-AFE6-EA6CD036E375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA1D597-63FD-446B-AFE6-EA6CD036E375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
